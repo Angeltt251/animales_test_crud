@@ -8,7 +8,7 @@ Proyecto Android desarrollado en **Java + Firebase Firestore** que permite:
 
 ---
 
-## 🚀 Funcionalidades principales
+##  Funcionalidades principales
 - **Dashboard inicial**: muestra la lista de animales con nombre, especie y edad.
 - **Detalle de animal**: permite ver información completa y acceder a opciones de editar/eliminar.
 - **Agregar animal**: formulario para ingresar nombre, especie y edad.
@@ -16,7 +16,7 @@ Proyecto Android desarrollado en **Java + Firebase Firestore** que permite:
 
 ---
 
-## 📸 Capturas de pantalla
+##  Capturas de pantalla
 
 ### Dashboard con datos
 
@@ -33,12 +33,6 @@ Proyecto Android desarrollado en **Java + Firebase Firestore** que permite:
 
 ---
 
-## ⚙️ Tecnologías utilizadas
-- Android Studio
-- Java
-- Firebase Firestore
-
----
 
 ## 📂 Estructura del proyecto
 - `MainActivity.java`: lista los animales desde Firestore.
