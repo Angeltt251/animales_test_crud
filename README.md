@@ -19,13 +19,17 @@ Proyecto Android desarrollado en **Java + Firebase Firestore** que permite:
 ## 📸 Capturas de pantalla
 
 ### Dashboard con datos
-![Dashboard](imagenes/dashboard.png)
 
+
+ ![620B1997-79C7-4A44-A281-97E8C4C22C19](https://github.com/user-attachments/assets/3b63ecd1-ab90-405c-892f-d0ba0558e5e6)
+ 
 ### Pestaña de detalle con opciones
-![Detalle](imagenes/detalle.png)
+![2E9FE124-2C29-4729-99A6-F843EE3F728F](https://github.com/user-attachments/assets/c9854890-5e64-4ee0-87ac-e6da0b9fcc20)
+
 
 ### Firebase Console mostrando colección `animales`
-![Firebase Console](imagenes/firebase.png)
+![1DC9E76F-FFA0-46EB-B495-361EE25B0092](https://github.com/user-attachments/assets/b805770b-193b-47be-9ebd-157f1353c4cf)
+
 
 ---
 
@@ -41,10 +45,3 @@ Proyecto Android desarrollado en **Java + Firebase Firestore** que permite:
 - `AgregarActivity.java`: agrega un nuevo animal (nombre como ID).
 - `DetalleActivity.java`: muestra detalle y permite editar/eliminar.
 - `EditarActivity.java`: actualiza datos de un animal existente.
-
----
-
-## 📝 Cómo ejecutar
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/animales-crud.git
