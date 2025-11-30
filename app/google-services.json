@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829212878792",
+    "project_id": "animales-test-crud",
+    "storage_bucket": "animales-test-crud.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829212878792:android:a349de5c9505f4b611c2fd",
+        "android_client_info": {
+          "package_name": "com.example.animales_test_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDnQa9xcQn2V0aiByf_Te2IawD1F8QVgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "2"
+}

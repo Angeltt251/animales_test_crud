@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AgregarActivity"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Título -->
+    <TextView
+        android:id="@+id/editar_Titulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Agregar/Editar Animal"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:paddingBottom="12dp"/>
+
+    <!-- Nombre del animal -->
+    <EditText
+        android:id="@+id/input_Nombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nombre del Animal"
+        android:inputType="text"
+        android:ems="10"
+        android:padding="8dp"/>
+
+    <!-- Especie del animal -->
+    <EditText
+        android:id="@+id/input_Especie"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Especie del Animal"
+        android:inputType="text"
+        android:ems="10"
+        android:padding="8dp"/>
+
+    <!-- Edad del animal -->
+    <EditText
+        android:id="@+id/input_Edad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Edad del Animal"
+        android:inputType="number"
+        android:ems="10"
+        android:padding="8dp"/>
+
+    <!-- Botón guardar/editar -->
+    <Button
+        android:id="@+id/boton_editar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Guardar"
+        android:padding="12dp"
+        android:layout_marginTop="16dp"/>
+</LinearLayout>
