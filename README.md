@@ -37,3 +37,4 @@ Proyecto Android desarrollado en **Java + Firebase Firestore** que permite:
 - `AgregarActivity.java`: agrega un nuevo animal (nombre como ID).
 - `DetalleActivity.java`: muestra detalle y permite editar/eliminar.
 - `EditarActivity.java`: actualiza datos de un animal existente.
+- `Animal.java`: modelo de datos usado para mapear documentos de Firestore.
