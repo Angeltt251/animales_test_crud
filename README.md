@@ -1,6 +1,6 @@
 # CRUD de Animales con Firebase Firestore 🐾🐾🐾
 
-Proyecto Android desarrollado en **Java + Firebase Firestore** que permite:
+Proyecto Android desarrollado en `Java` + `Firebase Firestore` que permite:
 - Listar animales desde la base de datos.
 - Agregar nuevos registros.
 - Editar y eliminar animales existentes.
